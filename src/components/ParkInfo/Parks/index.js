@@ -1,5 +1,6 @@
 import React from 'react'
 import Park from './Park'
+import Style from './styles.css'
 
 const Parks = (props) => {
    
